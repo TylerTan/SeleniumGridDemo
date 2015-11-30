@@ -1,0 +1,1 @@
+java -jar "C:\Users\Tyler-VM\Desktop\selenium-server-standalone-2.48.2.jar" -Dwebdriver.chrome.driver="C:\Driver\chromedriver.exe" -role node -hub http://192.168.1.164:4444/grid/register -port 5557 -browser browserName=chrome
